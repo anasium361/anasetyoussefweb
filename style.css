@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blueviolet;
+}
+button {
+    lighting-color: cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: currentColor;
+    text-shadow: black;
+    text-decoration: blueviolet;
+}
+h1 {
+    text-align: center;
+    text-justify: distribute;
+}
